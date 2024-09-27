@@ -57,8 +57,8 @@ function App() {
       <h1>
         Date and Views Table
       </h1>
-      <button onClick={sortByDate}>Sort By Date</button>
-      <button onClick={sortByViews}>Sort By Views</button>
+      <button onClick={sortByDate}>Sort by Date</button>
+      <button onClick={sortByViews}>Sort by Views</button>
       <table style={{textAlign:"center"}}>
         <thead>
           <tr>
